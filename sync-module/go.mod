@@ -1,3 +1,3 @@
-module github.com/lucasbarroso23/learn-go-with-tests/github.com/lucasbarroso23
+module github.com/lucasbarroso23/learn-go-with-tests/sync-module
 
 go 1.16
